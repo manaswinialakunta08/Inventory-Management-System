@@ -161,9 +161,9 @@ The inventory is stored in JSON format:
 
 ---
 
-## 🧠 Key Learning Outcomes
+ Outcomes
 
-Through this project, I practiced:
+Through this project
 
 * Writing modular Python programs
 * Creating reusable functions
@@ -175,7 +175,6 @@ Through this project, I practiced:
 * Building a menu-driven CLI application
 * Maintaining persistent application data
 
----
 
 ## 🔮 Future Improvements
 
